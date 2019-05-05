@@ -5,4 +5,4 @@
  * @author hi
  *
  */
-package com.java.basics;
+package com.ques.hackerrank;
