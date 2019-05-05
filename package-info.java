@@ -5,4 +5,4 @@
  * @author hi
  *
  */
-package com.ques.hackerrank;
+package com.abstractinfo.and.interfaceinfo;
